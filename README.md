@@ -1,39 +1,38 @@
 # Mobile
 
-## Login
 
-![alt text](https://github.com/leowevertonsantos/ignite-chakra.ui/blob/main/public/img/prints/listposts.png?raw=true)
+#### Login 
+<img src="https://github.com/leowevertonsantos/ignite-chakra.ui/blob/main/public/img/prints/SignIn-mobile.jpeg" width="300">
 
-## Dashboard
+### Dashboard
+<img src="https://github.com/leowevertonsantos/ignite-chakra.ui/blob/main/public/img/prints/Dashboard-mobile.jpeg?raw=true" width="300">
 
-![alt text](https://github.com/leowevertonsantos/ignite-chakra.ui/blob/main/public/img/prints/listposts.png?raw=true)
+### Dashboard
+<img src="https://github.com/leowevertonsantos/ignite-chakra.ui/blob/main/public/img/prints/Dashboard-mobile.jpeg?raw=true" width="300">
 
-## Login
 
-![alt text](https://github.com/leowevertonsantos/ignite-chakra.ui/blob/main/public/img/prints/listposts.png?raw=true)
+### Clientes
+<img src="https://github.com/leowevertonsantos/ignite-chakra.ui/blob/main/public/img/prints/Clients-mobile.jpeg?raw=true" width="300">
 
-## Clientes
+### Criar novo Cliente
+<img src="https://github.com/leowevertonsantos/ignite-chakra.ui/blob/main/public/img/prints/CreateClient-mobile.jpeg?raw=true" width="300">
 
-![alt text](https://github.com/leowevertonsantos/ignite-chakra.ui/blob/main/public/img/prints/listposts.png?raw=true)
 
-## Criar novo Cliente
 
-![alt text](https://github.com/leowevertonsantos/ignite-chakra.ui/blob/main/public/img/prints/listposts.png?raw=true)
+
 
 # Desktop
 
-## Login
 
-![alt text](https://github.com/leowevertonsantos/ignite-chakra.ui/blob/main/public/img/prints/SignIn.png?raw=true)
+### Login
+<img src="https://github.com/leowevertonsantos/ignite-chakra.ui/blob/main/public/img/prints/SignIn.png?raw=true"  minWidth="340">
 
-## Dashboard
+### Dashboard
+<img src="https://github.com/leowevertonsantos/ignite-chakra.ui/blob/main/public/img/prints/Dashboard.png?raw=true" minWidth="340">
 
-![alt text](https://github.com/leowevertonsantos/ignite-chakra.ui/blob/main/public/img/prints/Dashboard.png?raw=true)
+### Clientes
+<img src="https://github.com/leowevertonsantos/ignite-chakra.ui/blob/main/public/img/prints/Clients.png?raw=true" minWidth="340">
 
-## Clientes
+### Criar novo Cliente
+<img src="https://github.com/leowevertonsantos/ignite-chakra.ui/blob/main/public/img/prints/CreatClient.png?raw=true" minWidth="340">
 
-![alt text](https://github.com/leowevertonsantos/ignite-chakra.ui/blob/main/public/img/prints/Clients.png?raw=true)
-
-## Criar novo Cliente
-
-![alt text](https://github.com/leowevertonsantos/ignite-chakra.ui/blob/main/public/img/prints/CreateClient.png?raw=true)
