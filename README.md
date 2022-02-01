@@ -7,8 +7,8 @@
 ### Dashboard
 <img src="https://github.com/leowevertonsantos/ignite-chakra.ui/blob/main/public/img/prints/Dashboard-mobile.jpeg?raw=true" width="300">
 
-### Dashboard
-<img src="https://github.com/leowevertonsantos/ignite-chakra.ui/blob/main/public/img/prints/Dashboard-mobile.jpeg?raw=true" width="300">
+### Menu
+<img src="https://github.com/leowevertonsantos/ignite-chakra.ui/blob/main/public/img/prints/Menu-mobile.jpeg?raw=true" width="300">
 
 
 ### Clientes
