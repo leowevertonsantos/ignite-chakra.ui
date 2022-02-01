@@ -1,23 +1,12 @@
 # Mobile
 
-
-#### Login 
-<img src="https://github.com/leowevertonsantos/ignite-chakra.ui/blob/main/public/img/prints/SignIn-mobile.jpeg" width="300">
-
-### Dashboard
-<img src="https://github.com/leowevertonsantos/ignite-chakra.ui/blob/main/public/img/prints/Dashboard-mobile.jpeg?raw=true" width="300">
-
-### Menu
-<img src="https://github.com/leowevertonsantos/ignite-chakra.ui/blob/main/public/img/prints/Menu-mobile.jpeg?raw=true" width="300">
-
-
-### Clientes
-<img src="https://github.com/leowevertonsantos/ignite-chakra.ui/blob/main/public/img/prints/Clients-mobile.jpeg?raw=true" width="300">
-
-### Criar novo Cliente
-<img src="https://github.com/leowevertonsantos/ignite-chakra.ui/blob/main/public/img/prints/CreateClient-mobile.jpeg?raw=true" width="300">
-
-
+<div style="display: flex">
+  <img src="https://github.com/leowevertonsantos/ignite-chakra.ui/blob/main/public/img/prints/SignIn-mobile.jpeg" width="300">
+  <img src="https://github.com/leowevertonsantos/ignite-chakra.ui/blob/main/public/img/prints/Dashboard-mobile.jpeg?raw=true" width="300">
+  <img src="https://github.com/leowevertonsantos/ignite-chakra.ui/blob/main/public/img/prints/Menu-mobile.jpeg?raw=true" width="300">
+  <img src="https://github.com/leowevertonsantos/ignite-chakra.ui/blob/main/public/img/prints/Clients-mobile.jpeg?raw=true" width="300">
+  <img src="https://github.com/leowevertonsantos/ignite-chakra.ui/blob/main/public/img/prints/CreateClient-mobile.jpeg?raw=true" width="300">
+</div>
 
 
 
